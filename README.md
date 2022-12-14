@@ -1,8 +1,8 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Gustavo Martins
+Olá, eu sou o Gustavo Martins 
 
-Moro em Blumenau-SC
+Moro em Blumenau-SC 🌐
 ## Meus Hobbies
 
 - Ler
