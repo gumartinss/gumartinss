@@ -2,6 +2,7 @@
 
 Olá, eu sou o Gustavo Martins
 
+Moro em Blumenau-SC
 ## Meus Hobbies
 
 - Ler
