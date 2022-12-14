@@ -20,4 +20,5 @@ Moro em Blumenau-SC
 - GitHub @gumartinss
 - Instagram @martiinsgu_
 - Twitter @martinssgu
+- Linkdin: https://www.linkedin.com/in/martinsgu/
 - Email gustavo2001martins@gmail.com
