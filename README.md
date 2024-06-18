@@ -16,9 +16,7 @@ Moro em Blumenau-SC 🌐
 
 ## Contatos
 
-- WhatsApp 47 991982001
 - GitHub @gumartinss
 - Instagram @martiinsgu_
-- Twitter @martinssgu
 - Linkedin: https://www.linkedin.com/in/martinsgu/
 - Email gustavo2001martins@gmail.com
