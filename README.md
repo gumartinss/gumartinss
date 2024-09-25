@@ -8,6 +8,7 @@ Moro em Blumenau-SC 🌐
 - Aprender
 - filmes/series
 - Games
+- Cozinhar
 
 ## Atualemte Estudando 
 
@@ -21,3 +22,8 @@ Moro em Blumenau-SC 🌐
 - Instagram @martiinsgu_
 - Linkedin: https://www.linkedin.com/in/martinsgu/
 - Email gustavo2001martins@gmail.com
+
+## Projetos
+
+- BookStand
+  Projeto iniciado para aprendizagem Coforme minha evolução na programação eu vou incrementando o programa.
